@@ -14,7 +14,7 @@ const products = [
         category: "fruits",
         price: 2.90,
         unit: "kg",
-        image: "/Users/raphaelpernet/.gemini/antigravity/brain/7e558306-6f43-482a-b084-4dfae7d6e572/pommes_gala_retry_1772042243579.png"
+        image: "images/pommes_gala.png"
     },
     {
         id: 3,
@@ -54,7 +54,7 @@ const products = [
         category: "legumes",
         price: 2.20,
         unit: "kg",
-        image: "/Users/raphaelpernet/.gemini/antigravity/brain/7e558306-6f43-482a-b084-4dfae7d6e572/courgettes_retry_2_1772042453949.png"
+        image: "images/courgettes.png"
     },
     {
         id: 8,
@@ -62,7 +62,7 @@ const products = [
         category: "paniers",
         price: 15.00,
         unit: "unité",
-        image: "/Users/raphaelpernet/.gemini/antigravity/brain/7e558306-6f43-482a-b084-4dfae7d6e572/panier_duo_retry_2_1772042494115.png"
+        image: "images/panier_duo.png"
     },
     {
         id: 9,
@@ -70,7 +70,7 @@ const products = [
         category: "fromages",
         price: 28.50,
         unit: "kg",
-        image: "/Users/raphaelpernet/.gemini/antigravity/brain/7e558306-6f43-482a-b084-4dfae7d6e572/fromage_comte_retry_2_1772042597199.png"
+        image: "images/fromage_comte.png"
     },
     {
         id: 10,
@@ -78,14 +78,14 @@ const products = [
         category: "fromages",
         price: 6.50,
         unit: "la pièce",
-        image: "/Users/raphaelpernet/.gemini/antigravity/brain/7e558306-6f43-482a-b084-4dfae7d6e572/fromage_camembert_retry_3_1772042714307.png"
+        image: "images/fromage_camembert.png"
     }
 ];
 
 const heroImages = [
-    "/Users/raphaelpernet/.gemini/antigravity/brain/7e558306-6f43-482a-b084-4dfae7d6e572/hero_1_1772042852806.png",
-    "/Users/raphaelpernet/.gemini/antigravity/brain/7e558306-6f43-482a-b084-4dfae7d6e572/hero_2_retry_1772043032008.png",
-    "/Users/raphaelpernet/.gemini/antigravity/brain/7e558306-6f43-482a-b084-4dfae7d6e572/hero_3_1772042977387.png"
+    "images/hero_1.png",
+    "images/hero_2.png",
+    "images/hero_3.png"
 ];
 
 // --- State ---
